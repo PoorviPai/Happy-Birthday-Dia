@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(217, 60, 217),rgb(213, 46, 213),rgb(228, 36, 228),rgb(149, 15, 149),rgb(82, 3, 82));
+    color: whitesmoke;
+}
+
+img{
+    width:350px;
+    height:350px;
+}
